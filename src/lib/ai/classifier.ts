@@ -38,6 +38,7 @@ Rules:
 - Ignore newsletters, marketing, automated notifications, receipts, and FYI-only emails.
 - Prioritize URGENT for time-sensitive deadlines (<48h), VIP senders, or repeated follow-ups.
 - Prioritize HIGH for important business requests without hard deadlines.
+- Consider the consequences of ignoring the email when determining priority.
 - If no action needed, return empty actions array with requiresAction: false.
 - Extract meeting times as ISO 8601 when possible.
 - Be concise: title ≤ 80 chars, summary ≤ 200 chars.`;
