@@ -32,25 +32,22 @@ From the dashboard, each item supports:
 ```
 Gmail inbox
 │
-▼  
+v  
 Pub/Sub push
 |
-▼  
+v  
 /api/gmail/webhook
 |
-▼  
+v  
 email-sync worker
 |
-▼  
+v  
 AI classifier
 |
+v
 ActionItem (postgresql)
 |
-▼  
-Dashboard
+v  
+Dashboard ---> Read My Digest btn trigger ---> Sever fetches ActionItems from database ---> Returns JSON ---> Digest Card appears
 
 ```
-
-
-
-MIT
