@@ -14,8 +14,9 @@ GMassist continuously monitors your Gmail and surfaces four categories of action
 | **Schedule meeting** | "Let's find a time" threads where you need to book a slot |
 
 At a press of a button, GMassist sends a digest that is: 
--**Clear and Easy to Read** Users won't be lost nor waste time trying to understand it. 
--**Personalized** Tailored by gpt-5.4, it shows only high priority gmails that should responded to soon. 
+- **Clear and Easy to Read** - Users won't be lost nor waste time trying to understand it. 
+- **Personalized** - Tailored by gpt-5.4, it shows only high priority gmails that should responded to soon.
+---
 
 ## One-click actions
 
