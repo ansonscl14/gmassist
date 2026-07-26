@@ -212,6 +212,13 @@ export default function DashboardPage() {
           </button>
         </div>
       )}
+      <footer style={{ textAlign: "center", marginTop: "3rem", color: "var(--text-muted)", fontSize: "0.85rem" }}>
+        <p>
+          Made by <a href="mailto:ansonscl14@gmail.com" target="_blank" rel="noopener noreferrer">Anson Law</a>. 
+          <a href="github.com/ansonscl14/gmassist" target="_blank" rel="noopener noreferrer"> View on GitHub</a>.
+        </p>
+      </footer>
     </div>
+
   );
 }
